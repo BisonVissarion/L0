@@ -1,0 +1,49 @@
+{
+    "order_uid": "abcd8kekjh123412341234",
+    "track_number": "FJILMTESTTRACK",
+    "entry": "FGIL",
+    "delivery": {
+      "name": "Murza D",
+      "phone": "+9729999999",
+      "zip": "7891789",
+      "city": "Moscow",
+      "address": "Ploshad Dira 90",
+      "region": "Moscow",
+      "email": "uberslavmensch@gmail.com"
+    },
+    "payment": {
+      "transaction": "g000kekjh9h3d12367843",
+      "request_id": "",
+      "currency": "USA",
+      "provider": "Lpay",
+      "amount": 1300,
+      "payment_dt": 1637909999,
+      "bank": "omega",
+      "delivery_cost": 2599,
+      "goods_total": 999,
+      "custom_fee": 5
+    },
+    "items": [
+      {
+        "chrt_id": 9939999,
+        "track_number": "FGILMTESTTRACK",
+        "price": 999,
+        "rid": "ab4219087a76499999999",
+        "name": "Bobris",
+        "sale": 3000,
+        "size": "25",
+        "total_price": 400,
+        "nm_id": 2381234,
+        "brand": "Vivienne Sabo",
+        "status": 202
+      }
+    ],
+    "locale": "usa",
+    "internal_signature": "",
+    "customer_id": "999test",
+    "delivery_service": "pup",
+    "shardkey": "99",
+    "sm_id": 399,
+    "date_created": "2030-11-26T06:22:19Z",
+    "oof_shard": "35"
+  }
